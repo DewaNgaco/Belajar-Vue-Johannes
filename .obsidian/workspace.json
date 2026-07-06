@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "936161278eef066c",
+    "type": "split",
+    "children": [
+      {
+        "id": "033c86881a7ef189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81511c2158160136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task-belajar-vuejs-2-minggu/task-belajar-vuejs-2-minggu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "task-belajar-vuejs-2-minggu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19bd93533e56b83f",
+    "type": "split",
+    "children": [
+      {
+        "id": "097d8c846d3a6e90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26557f0106131362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "741fd121aeae292f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b26dcbc7db71ba5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b9ad993f3f8ba4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77c0c81bf5ec78f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4e3f9eb806b586e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "task-belajar-vuejs-2-minggu/task-belajar-vuejs-2-minggu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for task-belajar-vuejs-2-minggu"
+            }
+          },
+          {
+            "id": "b57688a34e2f5094",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "task-belajar-vuejs-2-minggu/task-belajar-vuejs-2-minggu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from task-belajar-vuejs-2-minggu"
+            }
+          },
+          {
+            "id": "f848421a669cf3f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad76f9e17076c13c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2d40dd0f0eab596b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "task-belajar-vuejs-2-minggu/task-belajar-vuejs-2-minggu.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of task-belajar-vuejs-2-minggu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "81511c2158160136",
+  "lastOpenFiles": [
+    "task-belajar-vuejs-2-minggu/task-belajar-vuejs-2-minggu/task-vuejs-2w-hari1-setup.svg",
+    "task-belajar-vuejs-2-minggu/task-belajar-vuejs-2-minggu.md",
+    "my-vue-app/src/components/ProfileCard.vue",
+    "my-vue-app/src/components",
+    "my-vue-app/node_modules/caniuse-lite/dist/lib/supported.js",
+    "my-vue-app/node_modules/caniuse-lite/dist/lib/statuses.js",
+    "my-vue-app/node_modules/caniuse-lite/dist/lib",
+    "my-vue-app/package-lock.json",
+    "my-vue-app/node_modules/caniuse-lite/README.md",
+    "my-vue-app/node_modules/caniuse-lite/package.json",
+    "my-vue-app/node_modules/caniuse-lite/data/regions/ZW.js",
+    "my-vue-app/node_modules/caniuse-lite/data/features/zstd.js",
+    "my-vue-app/node_modules/caniuse-lite/data/regions/ZM.js",
+    "my-vue-app/node_modules/vue/README.md",
+    "my-vue-app/node_modules/@vue/compiler-sfc/README.md",
+    "my-vue-app/node_modules/@vue/compiler-dom/README.md",
+    "my-vue-app/node_modules/json5/LICENSE.md",
+    "my-vue-app/node_modules/debug/README.md",
+    "my-vue-app/node_modules/kolorist/README.md",
+    "my-vue-app/node_modules/@rolldown/binding-win32-x64-msvc/README.md",
+    "my-vue-app/node_modules/@babel/plugin-syntax-import-attributes/README.md",
+    "my-vue-app/node_modules/run-applescript/readme.md",
+    "my-vue-app/node_modules/@babel/plugin-proposal-decorators/README.md",
+    "my-vue-app/node_modules/@babel/types/README.md",
+    "my-vue-app/node_modules/default-browser/readme.md",
+    "my-vue-app/node_modules/postcss/README.md",
+    "my-vue-app/node_modules/tinyglobby/README.md",
+    "my-vue-app/node_modules/nanoid/README.md",
+    "my-vue-app/node_modules/@babel/helper-module-transforms/README.md",
+    "my-vue-app/node_modules/@babel/helpers/README.md",
+    "my-vue-app/node_modules/magic-string/README.md",
+    "my-vue-app/node_modules/powershell-utils/readme.md",
+    "my-vue-app/node_modules/@babel/plugin-transform-typescript/README.md",
+    "my-vue-app/node_modules/@jridgewell/gen-mapping/README.md",
+    "my-vue-app/node_modules/rolldown/README.md",
+    "my-vue-app/node_modules/pathe/README.md",
+    "my-vue-app/node_modules/vite-plugin-vue-devtools/client/logo.svg",
+    "my-vue-app/node_modules/vite-plugin-inspect/dist/client/favicon.svg"
+  ]
+}
