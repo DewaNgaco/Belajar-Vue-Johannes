@@ -6,6 +6,8 @@ const count = ref(0)
 
 function tambah() {
   count.value++
+  // count++
+  console.log (count)
 }
 
 function kurang() {

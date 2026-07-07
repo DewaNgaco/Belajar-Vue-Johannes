@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 const name = "ME"
 const job = "Programmer"
 const city = "Jakarta"
